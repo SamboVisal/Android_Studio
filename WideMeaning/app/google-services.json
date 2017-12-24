@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "578545310999",
+    "firebase_url": "https://widemeaning.firebaseio.com",
+    "project_id": "widemeaning",
+    "storage_bucket": "widemeaning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578545310999:android:9e7d13f351a0fe43",
+        "android_client_info": {
+          "package_name": "com.example.sambovisal.widemeaning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578545310999-lengegob49nql5bb56kdstdl3h2i8jh9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sambovisal.widemeaning",
+            "certificate_hash": "5e9995f901c3d93d940605669716bac5d17dd482"
+          }
+        },
+        {
+          "client_id": "578545310999-27g4ljoujtt6ojks2lc65as1fega80fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp7WVL3HFD-LRPrQYAR4BEKY7I2Idip3U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578545310999-27g4ljoujtt6ojks2lc65as1fega80fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

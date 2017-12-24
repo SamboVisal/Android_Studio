@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HandlePage</string>
+    <string name="content1">Welcome To Our App</string>
+    <string name="content2">About Us</string>
+    <string name="homepage">We are web designer and Developer. We Provide services with responsibility</string>
+    <string name="aboutpage">My Name is Pisal. i am 19 years old and i am studying at KIT, my major is Software
+    enginner. I am interested in doing website</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="contact">Contact</string>
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MinozChat</string>
+    <string name="create_a_new_account">Create A New Account</string>
+    <string name="welcome_to_minoz_chat">Welcome To Minoz Chat</string>
+    <string name="username">Username</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="log_out">Log Out</string>
+    <string name="account_setting">Account Setting</string>
+    <string name="all_users">All Users</string>
+    <string name="this_is_main_page">This is Main Page</string>
+    <string name="create_a_account">Create A Account</string>
+    <string name="create_new_account">Create a New Account</string>
+    <string name="welcome_to_minoz">Welcome To Minoz</string>
+    <string name="chat_app">Chat App</string>
+    <string name="already_have_a_account">Already Have A Account</string>
+    <string name="already_have_account">Already Have Account</string>
+    <string name="login_to_your_account">Login To Your Account</string>
+    <string name="user_name">User name</string>
+    <string name="login">Login</string>
+    <string name="your_email_address">Your Email Address</string>
+    <string name="your_password">Your Password</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

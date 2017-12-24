@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SecondApp</string>
+    <string name="create_a_new_account">Create A New Account?</string>
+    <string name="welcome_to_minoz_chat">Welcome To Minoz Chat</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="username">Username</string>
+    <string name="create_your_account">Create Your Account</string>
+    <string name="email">Email</string>
+</resources>

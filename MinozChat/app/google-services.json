@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "53984907405",
+    "firebase_url": "https://minozchat.firebaseio.com",
+    "project_id": "minozchat",
+    "storage_bucket": "minozchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53984907405:android:9a5793c9c2f885ec",
+        "android_client_info": {
+          "package_name": "com.example.sambovisal.minozchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53984907405-hkqdgvqavg65jst930tll277i9lu210e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sambovisal.minozchat",
+            "certificate_hash": "5e9995f901c3d93d940605669716bac5d17dd482"
+          }
+        },
+        {
+          "client_id": "53984907405-21a6hl6ofttorh8tfl513um8i653cpa2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsuoX-RrNrV33jk_0EIxTPIR1j39J95tg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53984907405-21a6hl6ofttorh8tfl513um8i653cpa2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

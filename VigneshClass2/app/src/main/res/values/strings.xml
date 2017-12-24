@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">VigneshClass2</string>
+    <string name="click">Click</string>
+    <string name="login_your_account">Login Your Account</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="choose_any_number">Choose Any Number</string>
+    <string name="_1_empty_activity">1 Empty Activity</string>
+    <string name="_2_sign_up">2 Sign Up</string>
+    <string name="_3_login">3 Login</string>
+    <string name="_4_sign_in">4 Sign In</string>
+    <string name="submit">Submit</string>
+    <string name="this_is_empty_activity">This is Empty Activity</string>
+    <string name="this_is_sign_in_page">This is Sign In page</string>
+    <string name="click_me">Click Me</string>
+    <string name="click_button_to_back_to_login">Click Button To Back To Login</string>
+    <string name="this_is_sign_up_page">This is Sign Up page</string>
+</resources>
